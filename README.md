@@ -72,12 +72,34 @@ Lancement du json-server sur le port 8089 :
 
     json-server -w data/db.json -p 8089
 
+Les interfaces:
+-
+
+-La liste des produits:
+
+![image](https://github.com/Moujoudrana/Atelier6_JEE/assets/93864104/51f274e2-824a-4d68-b66c-e2e00c258a79)
+
+-Changerment de la valeur booléenne à partir du bouton:
+
+![image](https://github.com/Moujoudrana/Atelier6_JEE/assets/93864104/3982a8d3-98d7-4606-8581-4c2d6fe5295d)
+
+-Recherche d'un produit:
+
+![image](https://github.com/Moujoudrana/Atelier6_JEE/assets/93864104/eb9e1cea-c227-4174-bd66-18c33fadba0c)
+
+-Ajouter un produit:
+
+![image](https://github.com/Moujoudrana/Atelier6_JEE/assets/93864104/4763f66c-2d73-40e9-bff0-08cb3580326f)
+![image](https://github.com/Moujoudrana/Atelier6_JEE/assets/93864104/eb34c2d3-a977-4fe0-9efb-f682809f51f3)
+
+-Suppression d'un produit:
+
+![image](https://github.com/Moujoudrana/Atelier6_JEE/assets/93864104/34b607f2-5997-494c-a080-cf9f3d0af49c)
+![image](https://github.com/Moujoudrana/Atelier6_JEE/assets/93864104/b32d9746-7d7a-4f61-a948-d3dc75f56d9c)
+![image](https://github.com/Moujoudrana/Atelier6_JEE/assets/93864104/a19fd16b-eecb-423a-89be-170dbada5344)
 
 Le développement de cette application m'a permis d'acquérir une meilleure compréhension des concepts clés du framework, tels que les composants, les services et les routes.
 
-# FirstApp
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
 
 ## Development server
 
