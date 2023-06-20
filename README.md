@@ -1,26 +1,45 @@
-        JEE-Activite-6 
+JEE-Activite-6
+-
 Le but de cette activite est de maitriser les concepts fondamentaux de Angular.
 
 Travail à faire:
 -
   1.Créer un projet Angular avec la commande ng new FirstApp.
+  
   2.Créer une barre de navigation sur le composant App.
+  
   3.Créer le modele 'Product' avec les champs suivants:
+  
       id de type number,
+      
       name de type String,
+      
       price de type number,
+      
       checked de type boolean.
+      
   4.Définir le fichier 'data/db.json' pour le stockage des données.
+  
   5.Créer les composants suivants :
+  
       Home => ng g c home,
+
       new-product => ng g c new-product,
+      
       products => ng g c products.
+      
   6.Créer le service 'services/product' => ng g s services/product.
+  
   7.Définir quelques opérations de gestion des produits :
+  
       Consulter tous les produits avec pagination
+      
       Chercher des produits avec un mot clé
+      
       Ajouter un produit
+      
       Supprimer un produit
+      
       La possibilité de changer la valeur booleanne de l'attribut 'checked' avec un bouton.
 
 
@@ -42,10 +61,15 @@ Services : Les services dans Angular sont des classes réutilisables qui fournis
 Concernant le projet:
 -
 Ce projet a été généré avec Angular CLI version 16.0.1.
+
 Installation :
+
     npm i bootstrap bootstrap-icon
+    
     npm install -g json-server
-Lancement du json-server sur le port 8089 : 
+    
+Lancement du json-server sur le port 8089 :
+
     json-server -w data/db.json -p 8089
 
 
