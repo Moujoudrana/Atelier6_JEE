@@ -43,7 +43,7 @@ Travail à faire:
       La possibilité de changer la valeur booleanne de l'attribut 'checked' avec un bouton.
 
 
-![image](https://github.com/Moujoudrana/Atelier6_JEE/assets/93864104/4bd33de4-f1b5-4463-b4b3-572714b038fa)
+![image](https://github.com/Moujoudrana/Atelier6_JEE/assets/93864104/8af91fb5-d44f-41ab-ae73-166a3444166e)
 Angular est un framework open-source développé par Google. Il est utilisé pour créer des applications web dynamiques et interactives. Angular est basé sur le langage TypeScript, qui est une extension de JavaScript.
 
 Angular est largement utilisé pour développer des applications web d'entreprise, des applications de gestion, des tableaux de bord, des applications mobiles, etc. Il est apprécié pour sa performance, sa robustesse et sa capacité à créer des applications complexes et évolutives.
